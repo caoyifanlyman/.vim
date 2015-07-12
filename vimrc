@@ -158,6 +158,7 @@ autocmd Syntax             clojure RainbowParenthesesLoadBraces
 let g:EasyMotion_leader_key = '<Leader>'
 
 " Key mappings
+map <Esc><Esc> :w<cr>
 nmap <F4> :IndentGuidesToggle<cr>
 nmap <F5> :NERDTreeToggle<cr>
 nmap <F6> :TagbarToggle<cr>
