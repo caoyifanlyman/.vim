@@ -6,5 +6,5 @@ fi
 
 system_shell=$SHELL
 export SHELL="/bin/sh"
-vim +BundleInstall! +BundleClean +qall
+vim +PluginInstall! +PluginClean +qall
 export SHELL=$system_shell
