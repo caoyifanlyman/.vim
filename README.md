@@ -68,7 +68,7 @@ Backup your own vim files.
 
 Clone this repository.
 
-    git clone git@github.com:qiao/vimfiles.git .vim
+    git clone https://github.com:caoyifanlyman/.vim.git ~
 
 Create link for `.vimrc`.
     
