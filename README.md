@@ -65,10 +65,11 @@ Backup your own vim files.
 
     mv .vim .vim.bak
     mv .vimrc .vimrc.bak
+    rm -rf .vim
 
 Clone this repository.
 
-    git clone https://github.com:caoyifanlyman/.vim.git ~
+    git clone https://github.com/caoyifanlyman/.vim.git ~
 
 Create link for `.vimrc`.
     
